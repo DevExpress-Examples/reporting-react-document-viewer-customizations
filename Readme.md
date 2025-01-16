@@ -75,7 +75,10 @@ Open `http://localhost:3000/` in your browser to view the result. The applicatio
 
 ## More Examples
 
-* [Reporting for React - Integrate Report Designer in React App](https://github.com/DevExpress-Examples/reporting-eud-designer-in-javascript-with-react)
+* [Reporting for React - Integrate Report Designer in React App](https://github.com/DevExpress-Examples/reporting-react-integrate-end-user-designer)
+* [Reporting for React - Integrate Web Document Viewer in React App](https://github.com/DevExpress-Examples/reporting-react-integrate-web-document-viewer)
+* [Reporting for React - Customize Parameter Editor in the Web Document Viewer](https://github.com/DevExpress-Examples/reporting-react-customize-parameter-editor)
+* [Reporting for React - Customize Viewer Toolbar](https://github.com/DevExpress-Examples/reporting-react-customize-viewer-toolbar)
 
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?

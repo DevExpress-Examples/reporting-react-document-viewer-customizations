@@ -20,7 +20,7 @@ function App() {
     args.ActualParametersInfo.forEach((parameterModel: any) => {
       console.log("Parameter " + parameterModel.parameterDescriptor.name + " value " + JSON.stringify(parameterModel.parameterDescriptor.value));
     });
-    args.ParametersModel['parameter1'] = 10;
+    args.ParametersModel.setParameterValue("parameter1", 10 );
     args.ShouldRequestParameters = false;
   };
 
